@@ -1,0 +1,4 @@
+﻿  protect5 数组的概念.cpp
+E:\c语言项目8.8\protect5 数组的概念\protect5 数组的概念.cpp(10,1): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\c语言项目8.8\protect5 数组的概念\protect5 数组的概念.cpp(11,6): warning C4101: “a”: 未引用的局部变量
+  protect5 数组的概念.vcxproj -> E:\c语言项目8.8\protect5 数组的概念\Debug\protect5 数组的概念.exe
